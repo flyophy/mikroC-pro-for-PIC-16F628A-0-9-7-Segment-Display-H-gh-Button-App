@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F628A -DL -O11111114 -fo4 -N"C:\Users\EMRE\Desktop\ELEKTRONÝKK\mikroC\0-9 BUTON ARTTIRMA SAYICI\mikroC Kodu\0-9 ARTTIRMA SAYICI.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\EMRE\Desktop\ELEKTRONÝKK\mikroC\0-9 BUTON ARTTIRMA SAYICI\mikroC Kodu\" -SP"C:\Users\EMRE\Desktop\0-9 ARTTIRMA SAYICI\mikroC Kodu\" "0-9 ARTTIRMA SAYICI.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\EMRE\Desktop\0-9 ARTTIRMA SAYICI\mikroC Kodu'	 
+hint: 0	1139	Available RAM: 208 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	0-9 ARTTIRMA SAYICI.c
+diagnostics: 22	123	Compiled Successfully	0-9 ARTTIRMA SAYICI.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 13 (6%)  Free RAM (bytes): 195 (94%)	Used RAM (bytes): 13 (6%)  Free RAM (bytes): 195 (94%)
+hint: 0	1144	Used ROM (program words): 79 (4%)  Free ROM (program words): 1969 (96%)	Used ROM (program words): 79 (4%)  Free ROM (program words): 1969 (96%)
+diagnostics: 0	125	Project Linked Successfully	0-9 ARTTIRMA SAYICI.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project '0-9 ARTTIRMA SAYICI.mcppi' completed: 188 ms	 
+diagnostics: 0	103	Finished successfully: 24 Oca 2016, 22:32:39	0-9 ARTTIRMA SAYICI.mcppi
